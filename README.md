@@ -1,7 +1,4 @@
-# Sales Forecasting M5 - Student Project Submission
-
-## Project Overview
-This repository contains a **Sales Forecasting Project** developed as part of a student assignment for company review. The goal is to predict future retail sales using advanced time-series forecasting methods on the M5 dataset.
+# Sales Forecasting 
 
 ## Dataset
 The dataset used for this project is the **M5 Forecasting - Accuracy** dataset. 
